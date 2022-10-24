@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amreshcena
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning  B.Tech - Computer Science Business System. 
+- 🌱 I’m currently pursing  B.Tech - Computer Science Business System Third year.
 - 💞️ I’m looking to collaborate on Projects.
 - 📫 How to reach me in @amresh_cena .
 
