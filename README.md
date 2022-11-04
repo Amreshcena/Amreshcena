@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Amreshcena
+- 👋 Hi, I’m @Amresh M
 - 👀 I’m interested in coding.
 - 🌱 I’m currently pursing  B.Tech - Computer Science Business System Third year.
 - 💞️ I’m looking to collaborate on Projects.
-- 📫 How to reach me in @amresh_cena .
+- 📫 To reach me in @amresh_cena .
 
 <!---
 Amreshcena/Amreshcena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
